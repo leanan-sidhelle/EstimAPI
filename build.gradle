@@ -15,7 +15,7 @@ dependencies {
     api "commons-cli:commons-cli:[1.4,2.0)"
 }
 
-group = "EstimAPI"
+group = "xman2B"
 
 publishing {
     publications {
